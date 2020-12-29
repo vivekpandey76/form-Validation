@@ -12,7 +12,7 @@ form.addEventListener('submit',(event)=>{
 const sendData=(sRate,count)=>{
     console.log(count);
     if(sRate===count){
-        alert("Welcome to my Github account");
+        alert("Welcome to Vivek Github account");
         location.replace("https://github.com/vivekpandey76");
     }
  }
